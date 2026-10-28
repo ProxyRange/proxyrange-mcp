@@ -3,8 +3,12 @@
   "name": "com.proxyrange/proxyrange",
   "title": "ProxyRange",
   "description": "Residential proxy checkout prices, terms and sourcing checks, every fact dated and sourced.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://proxyrange.com/mcp",
+  "repository": {
+    "url": "https://github.com/ProxyRange/proxyrange-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://proxyrange.com/logo-512.png",
