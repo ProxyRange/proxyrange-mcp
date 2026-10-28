@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.proxyrange/proxyrange",
+  "title": "ProxyRange",
+  "description": "Residential proxy checkout prices, terms and sourcing checks, every fact dated and sourced.",
+  "version": "1.0.0",
+  "websiteUrl": "https://proxyrange.com/mcp",
+  "icons": [
+    {
+      "src": "https://proxyrange.com/logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.proxyrange.com/mcp"
+    }
+  ]
+}

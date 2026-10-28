@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "proxyrange": {
+      "type": "http",
+      "url": "https://mcp.proxyrange.com/mcp"
+    }
+  }
+}
